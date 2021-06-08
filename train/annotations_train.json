@@ -1,0 +1,6363 @@
+{
+    "0.jpg19025": {
+        "filename": "0.jpg",
+        "size": 19025,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        155,
+                        156,
+                        159,
+                        163,
+                        162,
+                        159,
+                        155,
+                        153,
+                        155
+                    ],
+                    "all_points_y": [
+                        123,
+                        121,
+                        119,
+                        127,
+                        130,
+                        130,
+                        133,
+                        131,
+                        123
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"1.jpg19459": {
+        "filename": "1.jpg",
+        "size": 19459,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        148,
+                        146,
+                        147,
+                        152,
+                        154,
+                        152,
+                        147
+                    ],
+                    "all_points_y": [
+                        103,
+                        106,
+                        109,
+                        111,
+                        108,
+                        103,
+                        104
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"2.jpg19843": {
+        "filename": "2.jpg",
+        "size": 19843,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        121,
+                        126,
+                        123,
+                        117,
+                        117,
+                        122
+                    ],
+                    "all_points_y": [
+                        80,
+                        83,
+                        91,
+                        88,
+                        83,
+                        80
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }, {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        125,
+                        129,
+                        129,
+                        123,
+                        122,
+                        125
+                    ],
+                    "all_points_y": [
+                        156,
+                        158,
+                        161,
+                        162,
+                        157,
+                        155
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"3.jpg20033": {
+        "filename": "3.jpg",
+        "size": 20033,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        136,
+                        140,
+                        141,
+                        137,
+                        132,
+                        133,
+                        136
+                    ],
+                    "all_points_y": [
+                        74,
+                        77,
+                        80,
+                        83,
+                        83,
+                        78,
+                        73
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        141,
+                        145,
+                        147,
+                        148,
+                        145,
+                        142,
+                        140,
+                        141
+                    ],
+                    "all_points_y": [
+                        95,
+                        90,
+                        95,
+                        100,
+                        103,
+                        99,
+                        99,
+                        94
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        127,
+                        128,
+                        129,
+                        131,
+                        132,
+                        131,
+                        130,
+                        128,
+                        127
+                    ],
+                    "all_points_y": [
+                        173,
+                        180,
+                        180,
+                        179,
+                        176,
+                        174,
+                        173,
+                        172,
+                        173
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        133,
+                        139,
+                        139,
+                        135,
+                        131,
+                        134
+                    ],
+                    "all_points_y": [
+                        159,
+                        161,
+                        166,
+                        166,
+                        162,
+                        158
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"4.jpg19953": {
+        "filename": "4.jpg",
+        "size": 19953,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        142,
+                        138,
+                        141,
+                        145,
+                        145,
+                        150,
+                        149,
+                        141
+                    ],
+                    "all_points_y": [
+                        158,
+                        161,
+                        165,
+                        165,
+                        168,
+                        167,
+                        159,
+                        158
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        135,
+                        138,
+                        140,
+                        141,
+                        137,
+                        134,
+                        135
+                    ],
+                    "all_points_y": [
+                        157,
+                        156,
+                        158,
+                        161,
+                        166,
+                        162,
+                        157
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        94,
+                        98,
+                        99,
+                        96,
+                        92,
+                        92,
+                        95
+                    ],
+                    "all_points_y": [
+                        90,
+                        91,
+                        96,
+                        97,
+                        95,
+                        90,
+                        90
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"5.jpg19387": {
+        "filename": "5.jpg",
+        "size": 19387,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        146,
+                        150,
+                        154,
+                        154,
+                        149,
+                        145,
+                        147
+                    ],
+                    "all_points_y": [
+                        154,
+                        152,
+                        155,
+                        161,
+                        162,
+                        159,
+                        153
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"6.jpg19382": {
+        "filename": "6.jpg",
+        "size": 19382,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        179,
+                        177,
+                        179,
+                        182,
+                        183,
+                        183,
+                        178
+                    ],
+                    "all_points_y": [
+                        134,
+                        139,
+                        143,
+                        143,
+                        139,
+                        136,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        186,
+                        179,
+                        175,
+                        176,
+                        179,
+                        181,
+                        185,
+                        189,
+                        196,
+                        193,
+                        189,
+                        186
+                    ],
+                    "all_points_y": [
+                        135,
+                        142,
+                        147,
+                        151,
+                        152,
+                        146,
+                        145,
+                        143,
+                        141,
+                        137,
+                        139,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        144,
+                        147,
+                        149,
+                        149,
+                        146,
+                        144,
+                        144
+                    ],
+                    "all_points_y": [
+                        176,
+                        172,
+                        176,
+                        181,
+                        183,
+                        180,
+                        175
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "7.jpg19846": {
+        "filename": "7.jpg",
+        "size": 19846,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        94,
+                        90,
+                        94,
+                        98,
+                        98,
+                        100,
+                        94
+                    ],
+                    "all_points_y": [
+                        138,
+                        144,
+                        149,
+                        149,
+                        144,
+                        140,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"8.jpg19500": {
+        "filename": "8.jpg",
+        "size": 19500,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        158,
+                        163,
+                        166,
+                        168,
+                        164,
+                        164,
+                        161,
+                        158
+                    ],
+                    "all_points_y": [
+                        93,
+                        95,
+                        93,
+                        96,
+                        98,
+                        101,
+                        104,
+                        93
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        158,
+                        155,
+                        159,
+                        162,
+                        162,
+                        158
+                    ],
+                    "all_points_y": [
+                        136,
+                        139,
+                        143,
+                        142,
+                        139,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        150,
+                        155,
+                        158,
+                        158,
+                        155,
+                        149,
+                        150
+                    ],
+                    "all_points_y": [
+                        143,
+                        144,
+                        143,
+                        147,
+                        151,
+                        146,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        163,
+                        163,
+                        171,
+                        176,
+                        180,
+                        177,
+                        172,
+                        167,
+                        164,
+                        161,
+                        163
+                    ],
+                    "all_points_y": [
+                        143,
+                        142,
+                        144,
+                        141,
+                        147,
+                        152,
+                        148,
+                        151,
+                        151,
+                        148,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        181,
+                        182,
+                        186,
+                        187,
+                        180,
+                        181
+                    ],
+                    "all_points_y": [
+                        141,
+                        143,
+                        144,
+                        150,
+                        149,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"9.jpg18915": {
+        "filename": "9.jpg",
+        "size": 18915,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        139,
+                        144,
+                        145,
+                        144,
+                        141,
+                        139,
+                        139
+                    ],
+                    "all_points_y": [
+                        128,
+                        127,
+                        131,
+                        137,
+                        136,
+                        133,
+                        128
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        153,
+                        150,
+                        150,
+                        155,
+                        161,
+                        161,
+                        155,
+                        152
+                    ],
+                    "all_points_y": [
+                        133,
+                        138,
+                        147,
+                        150,
+                        144,
+                        141,
+                        135,
+                        133
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        164,
+                        164,
+                        171,
+                        174,
+                        171,
+                        172,
+                        164
+                    ],
+                    "all_points_y": [
+                        151,
+                        146,
+                        139,
+                        141,
+                        146,
+                        150,
+                        151
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        171,
+                        176,
+                        179,
+                        178,
+                        173,
+                        171
+                    ],
+                    "all_points_y": [
+                        145,
+                        140,
+                        141,
+                        148,
+                        150,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "10.jpg18494": {
+        "filename": "10.jpg",
+        "size": 18494,
+        "regions": [
+            null,
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        147,
+                        149,
+                        151,
+                        150,
+                        146,
+                        147
+                    ],
+                    "all_points_y": [
+                        87,
+                        86,
+                        90,
+                        94,
+                        94,
+                        86
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        154,
+                        155,
+                        163,
+                        163,
+                        163,
+                        156,
+                        154
+                    ],
+                    "all_points_y": [
+                        138,
+                        138,
+                        137,
+                        142,
+                        144,
+                        144,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        134,
+                        132,
+                        136,
+                        140,
+                        134
+                    ],
+                    "all_points_y": [
+                        137,
+                        142,
+                        144,
+                        141,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        145,
+                        143,
+                        146,
+                        148,
+                        149,
+                        149,
+                        145
+                    ],
+                    "all_points_y": [
+                        102,
+                        107,
+                        108,
+                        107,
+                        105,
+                        102,
+                        102
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"11.jpg18574": {
+        "filename": "11.jpg",
+        "size": 18574,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        145,
+                        143,
+                        147,
+                        148,
+                        145
+                    ],
+                    "all_points_y": [
+                        100,
+                        102,
+                        106,
+                        103,
+                        99
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        160,
+                        158,
+                        161,
+                        164,
+                        164,
+                        159
+                    ],
+                    "all_points_y": [
+                        138,
+                        141,
+                        143,
+                        143,
+                        138,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        114,
+                        110,
+                        114,
+                        116,
+                        116,
+                        114
+                    ],
+                    "all_points_y": [
+                        136,
+                        140,
+                        142,
+                        141,
+                        138,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"12.jpg18139": {
+        "filename": "12.jpg",
+        "size": 18139,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        114,
+                        110,
+                        111,
+                        114,
+                        118,
+                        119,
+                        114
+                    ],
+                    "all_points_y": [
+                        103,
+                        106,
+                        110,
+                        111,
+                        109,
+                        106,
+                        103
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        120,
+                        122,
+                        124,
+                        122,
+                        118,
+                        114,
+                        116,
+                        118,
+                        120
+                    ],
+                    "all_points_y": [
+                        76,
+                        80,
+                        80,
+                        84,
+                        83,
+                        81,
+                        77,
+                        73,
+                        77
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"13.jpg17658": {
+        "filename": "13.jpg",
+        "size": 17658,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        100,
+                        104,
+                        106,
+                        108,
+                        103,
+                        101,
+                        100
+                    ],
+                    "all_points_y": [
+                        96,
+                        95,
+                        100,
+                        103,
+                        107,
+                        102,
+                        95
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"14.jpg16942": {
+        "filename": "14.jpg",
+        "size": 16942,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        103,
+                        106,
+                        111,
+                        115,
+                        115,
+                        113,
+                        110,
+                        108,
+                        103
+                    ],
+                    "all_points_y": [
+                        127,
+                        125,
+                        125,
+                        129,
+                        131,
+                        134,
+                        131,
+                        133,
+                        127
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "15.jpg22012": {
+        "filename": "15.jpg",
+        "size": 22012,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        152,
+                        149,
+                        148,
+                        150,
+                        156,
+                        156,
+                        151
+                    ],
+                    "all_points_y": [
+                        120,
+                        120,
+                        126,
+                        132,
+                        129,
+                        126,
+                        119
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "16.jpg21735": {
+        "filename": "16.jpg",
+        "size": 21735,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        152,
+                        150,
+                        151,
+                        154,
+                        155,
+                        155,
+                        152
+                    ],
+                    "all_points_y": [
+                        120,
+                        126,
+                        129,
+                        128,
+                        126,
+                        124,
+                        120
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"17.jpg22147": {
+        "filename": "17.jpg",
+        "size": 22147,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        121,
+                        119,
+                        119,
+                        121,
+                        124,
+                        120
+                    ],
+                    "all_points_y": [
+                        160,
+                        160,
+                        164,
+                        164,
+                        164,
+                        159
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        112,
+                        117,
+                        119,
+                        119,
+                        114,
+                        110,
+                        108,
+                        112
+                    ],
+                    "all_points_y": [
+                        77,
+                        81,
+                        80,
+                        85,
+                        87,
+                        87,
+                        82,
+                        77
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"18.jpg21960": {
+        "filename": "18.jpg",
+        "size": 21960,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        131,
+                        138,
+                        142,
+                        139,
+                        136,
+                        130,
+                        129,
+                        131
+                    ],
+                    "all_points_y": [
+                        160,
+                        159,
+                        161,
+                        165,
+                        167,
+                        166,
+                        164,
+                        160
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        141,
+                        139,
+                        144,
+                        149,
+                        149,
+                        146,
+                        141
+                    ],
+                    "all_points_y": [
+                        160,
+                        164,
+                        171,
+                        167,
+                        161,
+                        159,
+                        160
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"19.jpg21182": {
+        "filename": "19.jpg",
+        "size": 21182,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        86,
+                        84,
+                        86,
+                        88,
+                        90,
+                        92,
+                        87
+                    ],
+                    "all_points_y": [
+                        87,
+                        90,
+                        93,
+                        94,
+                        94,
+                        92,
+                        88
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        115,
+                        119,
+                        120,
+                        118,
+                        116,
+                        116
+                    ],
+                    "all_points_y": [
+                        113,
+                        111,
+                        115,
+                        118,
+                        118,
+                        113
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        158,
+                        157,
+                        159,
+                        163,
+                        164,
+                        162,
+                        158
+                    ],
+                    "all_points_y": [
+                        154,
+                        160,
+                        163,
+                        158,
+                        154,
+                        153,
+                        154
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        176,
+                        183,
+                        185,
+                        184,
+                        181,
+                        178,
+                        176
+                    ],
+                    "all_points_y": [
+                        138,
+                        132,
+                        134,
+                        138,
+                        141,
+                        142,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"20.jpg21189": {
+        "filename": "20.jpg",
+        "size": 21189,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        164,
+                        167,
+                        168,
+                        166,
+                        163,
+                        164
+                    ],
+                    "all_points_y": [
+                        60,
+                        58,
+                        63,
+                        65,
+                        64,
+                        60
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        145,
+                        148,
+                        149,
+                        146,
+                        146
+                    ],
+                    "all_points_y": [
+                        179,
+                        176,
+                        184,
+                        185,
+                        179
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "21.jpg21068": {
+        "filename": "21.jpg",
+        "size": 21068,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        185,
+                        182,
+                        184,
+                        188,
+                        188,
+                        185
+                    ],
+                    "all_points_y": [
+                        140,
+                        143,
+                        146,
+                        146,
+                        142,
+                        140
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        159,
+                        164,
+                        166,
+                        165,
+                        162,
+                        159,
+                        160
+                    ],
+                    "all_points_y": [
+                        154,
+                        154,
+                        162,
+                        164,
+                        163,
+                        160,
+                        154
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        176,
+                        176,
+                        173,
+                        174,
+                        174,
+                        179,
+                        176
+                    ],
+                    "all_points_y": [
+                        147,
+                        147,
+                        150,
+                        151,
+                        152,
+                        154,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "22.jpg20826": {
+        "filename": "22.jpg",
+        "size": 20826,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        96,
+                        96,
+                        102,
+                        104,
+                        106,
+                        104,
+                        100,
+                        95,
+                        94,
+                        96
+                    ],
+                    "all_points_y": [
+                        78,
+                        74,
+                        75,
+                        80,
+                        84,
+                        89,
+                        89,
+                        86,
+                        80,
+                        78
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        166,
+                        163,
+                        158,
+                        156,
+                        154,
+                        154,
+                        158,
+                        158,
+                        160,
+                        163,
+                        166,
+                        166
+                    ],
+                    "all_points_y": [
+                        90,
+                        94,
+                        99,
+                        99,
+                        96,
+                        95,
+                        93,
+                        88,
+                        87,
+                        90,
+                        86,
+                        90
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        174,
+                        178,
+                        181,
+                        182,
+                        173,
+                        166,
+                        164,
+                        164,
+                        165,
+                        171,
+                        174
+                    ],
+                    "all_points_y": [
+                        142,
+                        139,
+                        142,
+                        143,
+                        148,
+                        150,
+                        146,
+                        144,
+                        142,
+                        140,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        88,
+                        88,
+                        91,
+                        95,
+                        95,
+                        92,
+                        88,
+                        88
+                    ],
+                    "all_points_y": [
+                        151,
+                        143,
+                        140,
+                        140,
+                        144,
+                        147,
+                        152,
+                        151
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"23.jpg20024": {
+        "filename": "23.jpg",
+        "size": 20024,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        151,
+                        156,
+                        160,
+                        163,
+                        158,
+                        154,
+                        152,
+                        151
+                    ],
+                    "all_points_y": [
+                        135,
+                        132,
+                        138,
+                        143,
+                        148,
+                        144,
+                        141,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        87,
+                        90,
+                        94,
+                        94,
+                        91,
+                        87
+                    ],
+                    "all_points_y": [
+                        144,
+                        140,
+                        141,
+                        146,
+                        149,
+                        144
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        139,
+                        141,
+                        145,
+                        146,
+                        140,
+                        138
+                    ],
+                    "all_points_y": [
+                        126,
+                        124,
+                        128,
+                        131,
+                        132,
+                        126
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        139,
+                        138,
+                        140,
+                        144,
+                        146,
+                        146,
+                        142,
+                        139
+                    ],
+                    "all_points_y": [
+                        124,
+                        131,
+                        133,
+                        134,
+                        130,
+                        127,
+                        124,
+                        125
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"24.jpg19300": {
+        "filename": "24.jpg",
+        "size": 19300,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        159,
+                        155,
+                        156,
+                        160,
+                        164,
+                        167,
+                        167,
+                        165,
+                        162,
+                        161,
+                        159
+                    ],
+                    "all_points_y": [
+                        138,
+                        139,
+                        142,
+                        141,
+                        142,
+                        140,
+                        138,
+                        135,
+                        135,
+                        136,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        134,
+                        130,
+                        130,
+                        132,
+                        134,
+                        136,
+                        138,
+                        139,
+                        139,
+                        137,
+                        134
+                    ],
+                    "all_points_y": [
+                        136,
+                        136,
+                        138,
+                        139,
+                        142,
+                        143,
+                        142,
+                        138,
+                        136,
+                        136,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "25.jpg18843": {
+        "filename": "25.jpg",
+        "size": 18843,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        145,
+                        147,
+                        150,
+                        150,
+                        144,
+                        145
+                    ],
+                    "all_points_y": [
+                        96,
+                        94,
+                        96,
+                        99,
+                        99,
+                        97
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        111,
+                        113,
+                        116,
+                        115,
+                        112,
+                        111,
+                        112
+                    ],
+                    "all_points_y": [
+                        136,
+                        134,
+                        138,
+                        140,
+                        142,
+                        139,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        118,
+                        120,
+                        123,
+                        123,
+                        121,
+                        117,
+                        116,
+                        119
+                    ],
+                    "all_points_y": [
+                        132,
+                        134,
+                        135,
+                        139,
+                        141,
+                        137,
+                        136,
+                        132
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },  "26.jpg18332": {
+        "filename": "26.jpg",
+        "size": 18332,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        112,
+                        115,
+                        117,
+                        114,
+                        110,
+                        112
+                    ],
+                    "all_points_y": [
+                        97,
+                        98,
+                        104,
+                        105,
+                        104,
+                        97
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"27.jpg17480": {
+        "filename": "27.jpg",
+        "size": 17480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        115,
+                        121,
+                        122,
+                        121,
+                        117,
+                        114,
+                        116
+                    ],
+                    "all_points_y": [
+                        70,
+                        68,
+                        73,
+                        76,
+                        74,
+                        73,
+                        70
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        111,
+                        115,
+                        117,
+                        119,
+                        115,
+                        110,
+                        109,
+                        112
+                    ],
+                    "all_points_y": [
+                        101,
+                        102,
+                        101,
+                        104,
+                        108,
+                        107,
+                        104,
+                        101
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"28.jpg16371": {
+        "filename": "28.jpg",
+        "size": 16371,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        99,
+                        99,
+                        101,
+                        104,
+                        104,
+                        104,
+                        108,
+                        106,
+                        99
+                    ],
+                    "all_points_y": [
+                        101,
+                        94,
+                        90,
+                        95,
+                        94,
+                        97,
+                        98,
+                        102,
+                        101
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "29.jpg14768": {
+        "filename": "29.jpg",
+        "size": 14768,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        121,
+                        117,
+                        117,
+                        118,
+                        120,
+                        123,
+                        125,
+                        126,
+                        126,
+                        127,
+                        126,
+                        128,
+                        122,
+                        121
+                    ],
+                    "all_points_y": [
+                        127,
+                        131,
+                        133,
+                        134,
+                        134,
+                        136,
+                        137,
+                        135,
+                        134,
+                        133,
+                        132,
+                        130,
+                        131,
+                        128
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        104,
+                        114,
+                        114,
+                        114,
+                        114,
+                        110,
+                        110,
+                        108,
+                        106,
+                        105
+                    ],
+                    "all_points_y": [
+                        124,
+                        124,
+                        127,
+                        130,
+                        132,
+                        132,
+                        130,
+                        128,
+                        128,
+                        123
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        107,
+                        110,
+                        111,
+                        111,
+                        108,
+                        105,
+                        106,
+                        107,
+                        109
+                    ],
+                    "all_points_y": [
+                        109,
+                        108,
+                        112,
+                        115,
+                        114,
+                        114,
+                        112,
+                        108,
+                        108
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"30.jpg13083": {
+        "filename": "30.jpg",
+        "size": 13083,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        151,
+                        150,
+                        151,
+                        155,
+                        156,
+                        157,
+                        157,
+                        157,
+                        157,
+                        154,
+                        152
+                    ],
+                    "all_points_y": [
+                        110,
+                        113,
+                        116,
+                        117,
+                        115,
+                        113,
+                        112,
+                        110,
+                        109,
+                        109,
+                        108
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        151,
+                        150,
+                        150,
+                        153,
+                        154,
+                        154,
+                        154
+                    ],
+                    "all_points_y": [
+                        128,
+                        130,
+                        133,
+                        133,
+                        133,
+                        130,
+                        128
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"31.jpg13485": {
+        "filename": "31.jpg",
+        "size": 13485,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        179,
+                        179,
+                        181,
+                        183,
+                        186,
+                        188,
+                        188,
+                        186,
+                        183
+                    ],
+                    "all_points_y": [
+                        132,
+                        136,
+                        137,
+                        137,
+                        137,
+                        137,
+                        134,
+                        133,
+                        131
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        149,
+                        151,
+                        152,
+                        156,
+                        158,
+                        159,
+                        156,
+                        154,
+                        150
+                    ],
+                    "all_points_y": [
+                        151,
+                        156,
+                        157,
+                        156,
+                        152,
+                        149,
+                        147,
+                        147,
+                        148
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"32.jpg13569": {
+        "filename": "32.jpg",
+        "size": 13569,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        179,
+                        176,
+                        176,
+                        180,
+                        183,
+                        186,
+                        185,
+                        182
+                    ],
+                    "all_points_y": [
+                        135,
+                        139,
+                        144,
+                        144,
+                        139,
+                        137,
+                        134,
+                        133
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        167,
+                        168,
+                        170,
+                        173,
+                        173,
+                        173,
+                        171,
+                        169
+                    ],
+                    "all_points_y": [
+                        145,
+                        147,
+                        149,
+                        147,
+                        144,
+                        142,
+                        141,
+                        141
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        178,
+                        176,
+                        177,
+                        180,
+                        180
+                    ],
+                    "all_points_y": [
+                        101,
+                        99,
+                        97,
+                        98,
+                        100
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }, {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        173,
+                        171,
+                        169,
+                        169,
+                        172,
+                        174
+                    ],
+                    "all_points_y": [
+                        99,
+                        101,
+                        100,
+                        97,
+                        96,
+                        97
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"33.jpg13508": {
+        "filename": "33.jpg",
+        "size": 13508,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        175,
+                        176,
+                        178,
+                        180,
+                        181,
+                        179,
+                        177
+                    ],
+                    "all_points_y": [
+                        140,
+                        143,
+                        143,
+                        142,
+                        140,
+                        137,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }, {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        159,
+                        155,
+                        158,
+                        162,
+                        163,
+                        164
+                    ],
+                    "all_points_y": [
+                        148,
+                        145,
+                        142,
+                        143,
+                        145,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },  {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        151,
+                        149,
+                        148,
+                        149,
+                        152,
+                        153,
+                        154,
+                        155
+                    ],
+                    "all_points_y": [
+                        105,
+                        103,
+                        101,
+                        98,
+                        99,
+                        100,
+                        101,
+                        104
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }, {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        170,
+                        170,
+                        173,
+                        175,
+                        175,
+                        174,
+                        172
+                    ],
+                    "all_points_y": [
+                        96,
+                        101,
+                        102,
+                        100,
+                        97,
+                        95,
+                        95
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "34.jpg13537": {
+        "filename": "34.jpg",
+        "size": 13537,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        165,
+                        159,
+                        157,
+                        157,
+                        163,
+                        165,
+                        166
+                    ],
+                    "all_points_y": [
+                        149,
+                        148,
+                        144,
+                        140,
+                        141,
+                        143,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"35.jpg12673": {
+        "filename": "35.jpg",
+        "size": 12673,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        160,
+                        161,
+                        165,
+                        167,
+                        167,
+                        165,
+                        160
+                    ],
+                    "all_points_y": [
+                        144,
+                        149,
+                        149,
+                        146,
+                        142,
+                        140,
+                        141
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        162,
+                        159,
+                        157,
+                        157,
+                        159,
+                        162,
+                        162
+                    ],
+                    "all_points_y": [
+                        149,
+                        150,
+                        148,
+                        145,
+                        145,
+                        146,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"36.jpg12312": {
+        "filename": "36.jpg",
+        "size": 12312,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        135,
+                        131,
+                        127,
+                        126,
+                        127,
+                        131,
+                        134,
+                        135
+                    ],
+                    "all_points_y": [
+                        139,
+                        140,
+                        139,
+                        137,
+                        134,
+                        134,
+                        134,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        146,
+                        140,
+                        137,
+                        136,
+                        139,
+                        142,
+                        148,
+                        151,
+                        152,
+                        151
+                    ],
+                    "all_points_y": [
+                        108,
+                        108,
+                        107,
+                        104,
+                        100,
+                        101,
+                        102,
+                        102,
+                        104,
+                        106
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "37.jpg12711": {
+        "filename": "37.jpg",
+        "size": 12711,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        126,
+                        130,
+                        135,
+                        135,
+                        133,
+                        130,
+                        127,
+                        125
+                    ],
+                    "all_points_y": [
+                        137,
+                        140,
+                        139,
+                        135,
+                        132,
+                        130,
+                        131,
+                        133
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        146,
+                        143,
+                        143,
+                        147,
+                        148,
+                        147
+                    ],
+                    "all_points_y": [
+                        141,
+                        141,
+                        137,
+                        137,
+                        139,
+                        141
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        137,
+                        139,
+                        143,
+                        143,
+                        141,
+                        139,
+                        137,
+                        136
+                    ],
+                    "all_points_y": [
+                        109,
+                        112,
+                        107,
+                        105,
+                        103,
+                        103,
+                        106,
+                        109
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "38.jpg12749": {
+        "filename": "38.jpg",
+        "size": 12749,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        132,
+                        133,
+                        136,
+                        137,
+                        138,
+                        136,
+                        134
+                    ],
+                    "all_points_y": [
+                        135,
+                        140,
+                        141,
+                        139,
+                        136,
+                        134,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        173,
+                        171,
+                        169,
+                        169,
+                        171,
+                        174,
+                        175
+                    ],
+                    "all_points_y": [
+                        142,
+                        142,
+                        141,
+                        139,
+                        137,
+                        139,
+                        141
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        130,
+                        133,
+                        134,
+                        133,
+                        132,
+                        129,
+                        128,
+                        127
+                    ],
+                    "all_points_y": [
+                        138,
+                        140,
+                        138,
+                        138,
+                        134,
+                        131,
+                        132,
+                        134,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        139,
+                        138,
+                        140,
+                        142,
+                        143,
+                        143,
+                        142
+                    ],
+                    "all_points_y": [
+                        104,
+                        108,
+                        110,
+                        109,
+                        107,
+                        105,
+                        103
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "39.jpg13131": {
+        "filename": "39.jpg",
+        "size": 13131,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        152,
+                        154,
+                        156,
+                        158,
+                        157,
+                        156,
+                        154,
+                        151
+                    ],
+                    "all_points_y": [
+                        114,
+                        116,
+                        116,
+                        113,
+                        110,
+                        108,
+                        108,
+                        112
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "40.jpg13881": {
+        "filename": "40.jpg",
+        "size": 13881,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        135,
+                        135,
+                        138,
+                        141,
+                        142,
+                        142,
+                        140,
+                        137
+                    ],
+                    "all_points_y": [
+                        142,
+                        146,
+                        149,
+                        146,
+                        143,
+                        140,
+                        140,
+                        140
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"41.jpg13672": {
+        "filename": "41.jpg",
+        "size": 13672,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        138,
+                        137,
+                        134,
+                        132,
+                        133,
+                        134,
+                        136
+                    ],
+                    "all_points_y": [
+                        137,
+                        140,
+                        141,
+                        138,
+                        136,
+                        134,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"42.jpg13667": {
+        "filename": "42.jpg",
+        "size": 13667,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        180,
+                        179,
+                        182,
+                        185,
+                        186,
+                        184,
+                        181
+                    ],
+                    "all_points_y": [
+                        143,
+                        147,
+                        148,
+                        147,
+                        144,
+                        142,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        184,
+                        180,
+                        179,
+                        181,
+                        186,
+                        186,
+                        186
+                    ],
+                    "all_points_y": [
+                        147,
+                        147,
+                        144,
+                        141,
+                        141,
+                        144,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        143,
+                        140,
+                        138,
+                        140,
+                        144,
+                        145,
+                        145
+                    ],
+                    "all_points_y": [
+                        92,
+                        92,
+                        91,
+                        87,
+                        88,
+                        90,
+                        92
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"43.jpg13484": {
+        "filename": "43.jpg",
+        "size": 13484,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        157,
+                        152,
+                        150,
+                        155,
+                        158,
+                        159,
+                        162,
+                        166,
+                        170,
+                        171,
+                        170,
+                        167,
+                        164,
+                        159,
+                        155
+                    ],
+                    "all_points_y": [
+                        145,
+                        152,
+                        155,
+                        158,
+                        156,
+                        155,
+                        155,
+                        152,
+                        149,
+                        147,
+                        144,
+                        141,
+                        141,
+                        143,
+                        148
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        179,
+                        175,
+                        171,
+                        172,
+                        174,
+                        177,
+                        180,
+                        182,
+                        181
+                    ],
+                    "all_points_y": [
+                        148,
+                        148,
+                        146,
+                        143,
+                        140,
+                        140,
+                        140,
+                        142,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        171,
+                        166,
+                        162,
+                        160,
+                        159,
+                        161,
+                        162,
+                        163,
+                        169,
+                        172,
+                        174,
+                        174
+                    ],
+                    "all_points_y": [
+                        101,
+                        104,
+                        104,
+                        102,
+                        98,
+                        97,
+                        93,
+                        90,
+                        90,
+                        93,
+                        96,
+                        98
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"44.jpg13406": {
+        "filename": "44.jpg",
+        "size": 13406,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        169,
+                        163,
+                        160,
+                        160,
+                        163,
+                        166,
+                        170,
+                        173,
+                        174,
+                        173
+                    ],
+                    "all_points_y": [
+                        98,
+                        98,
+                        97,
+                        95,
+                        90,
+                        89,
+                        91,
+                        94,
+                        96,
+                        97
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+             {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        178,
+                        173,
+                        169,
+                        167,
+                        173,
+                        175,
+                        179,
+                        181
+                    ],
+                    "all_points_y": [
+                        146,
+                        148,
+                        149,
+                        144,
+                        143,
+                        142,
+                        141,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        168,
+                        165,
+                        159,
+                        157,
+                        155,
+                        155,
+                        162,
+                        167,
+                        169
+                    ],
+                    "all_points_y": [
+                        149,
+                        153,
+                        153,
+                        152,
+                        150,
+                        147,
+                        147,
+                        146,
+                        146
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "45.jpg13535": {
+        "filename": "45.jpg",
+        "size": 13535,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        101,
+                        102,
+                        105,
+                        108,
+                        107,
+                        108,
+                        107,
+                        103,
+                        102
+                    ],
+                    "all_points_y": [
+                        144,
+                        148,
+                        147,
+                        143,
+                        141,
+                        139,
+                        137,
+                        137,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        174,
+                        170,
+                        167,
+                        168,
+                        171,
+                        175,
+                        177,
+                        175
+                    ],
+                    "all_points_y": [
+                        147,
+                        149,
+                        146,
+                        143,
+                        141,
+                        142,
+                        143,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        169,
+                        166,
+                        163,
+                        161,
+                        165,
+                        169,
+                        170
+                    ],
+                    "all_points_y": [
+                        98,
+                        99,
+                        98,
+                        95,
+                        94,
+                        96,
+                        97
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"46.jpg13339": {
+        "filename": "46.jpg",
+        "size": 13339,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        169,
+                        169,
+                        170,
+                        173,
+                        174,
+                        175,
+                        173,
+                        171
+                    ],
+                    "all_points_y": [
+                        90,
+                        94,
+                        97,
+                        95,
+                        93,
+                        89,
+                        87,
+                        87
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        149,
+                        151,
+                        153,
+                        152,
+                        150,
+                        148
+                    ],
+                    "all_points_y": [
+                        104,
+                        106,
+                        103,
+                        100,
+                        100,
+                        101
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        107,
+                        105,
+                        103,
+                        102,
+                        103,
+                        106,
+                        108
+                    ],
+                    "all_points_y": [
+                        141,
+                        144,
+                        144,
+                        142,
+                        139,
+                        139,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        98,
+                        94,
+                        93,
+                        94,
+                        99
+                    ],
+                    "all_points_y": [
+                        140,
+                        141,
+                        139,
+                        137,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        175,
+                        172,
+                        169,
+                        168,
+                        169,
+                        170,
+                        172,
+                        174,
+                        174
+                    ],
+                    "all_points_y": [
+                        100,
+                        103,
+                        102,
+                        100,
+                        98,
+                        96,
+                        96,
+                        96,
+                        98
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"47.jpg13294": {
+        "filename": "47.jpg",
+        "size": 13294,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        169,
+                        166,
+                        163,
+                        159,
+                        158,
+                        159,
+                        162,
+                        165,
+                        168,
+                        169
+                    ],
+                    "all_points_y": [
+                        146,
+                        151,
+                        152,
+                        150,
+                        147,
+                        143,
+                        141,
+                        140,
+                        141,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        116,
+                        111,
+                        107,
+                        105,
+                        104,
+                        105,
+                        110,
+                        114,
+                        117,
+                        118,
+                        119,
+                        119
+                    ],
+                    "all_points_y": [
+                        146,
+                        147,
+                        148,
+                        145,
+                        141,
+                        136,
+                        133,
+                        133,
+                        134,
+                        137,
+                        142,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"48.jpg12496": {
+        "filename": "48.jpg",
+        "size": 12496,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        159,
+                        161,
+                        162,
+                        165,
+                        163,
+                        162,
+                        161
+                    ],
+                    "all_points_y": [
+                        148,
+                        151,
+                        150,
+                        147,
+                        144,
+                        146,
+                        146
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        169,
+                        167,
+                        164,
+                        162,
+                        162,
+                        164,
+                        166,
+                        168,
+                        170
+                    ],
+                    "all_points_y": [
+                        147,
+                        149,
+                        148,
+                        147,
+                        145,
+                        142,
+                        142,
+                        142,
+                        144
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        115,
+                        115,
+                        114,
+                        111,
+                        107,
+                        104,
+                        103,
+                        104,
+                        107,
+                        109,
+                        114,
+                        115
+                    ],
+                    "all_points_y": [
+                        139,
+                        144,
+                        148,
+                        149,
+                        147,
+                        144,
+                        140,
+                        137,
+                        136,
+                        133,
+                        133,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },{
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        115,
+                        115,
+                        114,
+                        111,
+                        107,
+                        104,
+                        103,
+                        104,
+                        107,
+                        109,
+                        114,
+                        115
+                    ],
+                    "all_points_y": [
+                        139,
+                        144,
+                        148,
+                        149,
+                        147,
+                        144,
+                        140,
+                        137,
+                        136,
+                        133,
+                        133,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"49.jpg12235": {
+        "filename": "49.jpg",
+        "size": 12235,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        164,
+                        164,
+                        166,
+                        167,
+                        167,
+                        167
+                    ],
+                    "all_points_y": [
+                        138,
+                        140,
+                        142,
+                        142,
+                        140,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        151,
+                        151,
+                        156,
+                        157,
+                        157,
+                        155
+                    ],
+                    "all_points_y": [
+                        142,
+                        148,
+                        148,
+                        143,
+                        141,
+                        141
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        143,
+                        145,
+                        149,
+                        151,
+                        151,
+                        149,
+                        146,
+                        143
+                    ],
+                    "all_points_y": [
+                        140,
+                        144,
+                        144,
+                        140,
+                        138,
+                        136,
+                        136,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        135,
+                        128,
+                        127,
+                        128,
+                        131,
+                        135,
+                        136,
+                        137
+                    ],
+                    "all_points_y": [
+                        141,
+                        141,
+                        139,
+                        136,
+                        135,
+                        135,
+                        135,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        107,
+                        110,
+                        112,
+                        114,
+                        114,
+                        113,
+                        112,
+                        111,
+                        109,
+                        107
+                    ],
+                    "all_points_y": [
+                        148,
+                        153,
+                        154,
+                        150,
+                        145,
+                        142,
+                        141,
+                        139,
+                        141,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        149,
+                        141,
+                        138,
+                        135,
+                        134,
+                        136,
+                        139,
+                        146,
+                        150,
+                        151,
+                        152
+                    ],
+                    "all_points_y": [
+                        108,
+                        110,
+                        110,
+                        110,
+                        108,
+                        104,
+                        101,
+                        102,
+                        102,
+                        105,
+                        109
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"50.jpg12562": {
+        "filename": "50.jpg",
+        "size": 12562,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        169,
+                        168,
+                        166,
+                        165,
+                        166,
+                        168,
+                        169,
+                        171
+                    ],
+                    "all_points_y": [
+                        142,
+                        142,
+                        142,
+                        141,
+                        138,
+                        138,
+                        138,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        151,
+                        149,
+                        147,
+                        143,
+                        142,
+                        143,
+                        146,
+                        150,
+                        151
+                    ],
+                    "all_points_y": [
+                        140,
+                        142,
+                        144,
+                        143,
+                        140,
+                        137,
+                        134,
+                        136,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        143,
+                        134,
+                        130,
+                        126,
+                        126,
+                        127,
+                        130,
+                        134,
+                        139,
+                        143
+                    ],
+                    "all_points_y": [
+                        137,
+                        142,
+                        142,
+                        140,
+                        137,
+                        132,
+                        130,
+                        131,
+                        129,
+                        132
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        135,
+                        136,
+                        140,
+                        143,
+                        145,
+                        144,
+                        142,
+                        140,
+                        137,
+                        134
+                    ],
+                    "all_points_y": [
+                        109,
+                        113,
+                        113,
+                        112,
+                        109,
+                        104,
+                        102,
+                        101,
+                        102,
+                        106
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "51.jpg12726": {
+        "filename": "51.jpg",
+        "size": 12726,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        129,
+                        127,
+                        132,
+                        133,
+                        133,
+                        131
+                    ],
+                    "all_points_y": [
+                        136,
+                        141,
+                        141,
+                        140,
+                        136,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        134,
+                        135,
+                        137,
+                        139,
+                        137,
+                        135
+                    ],
+                    "all_points_y": [
+                        137,
+                        143,
+                        143,
+                        140,
+                        136,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        173,
+                        170,
+                        170,
+                        170,
+                        173,
+                        176,
+                        175
+                    ],
+                    "all_points_y": [
+                        142,
+                        141,
+                        139,
+                        136,
+                        136,
+                        140,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "name": "sep",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"52.jpg15650": {
+        "filename": "52.jpg",
+        "size": 15650,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        114,
+                        111,
+                        114,
+                        116,
+                        117,
+                        114
+                    ],
+                    "all_points_y": [
+                        82,
+                        88,
+                        93,
+                        93,
+                        86,
+                        81
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        118,
+                        114,
+                        112,
+                        119,
+                        119,
+                        118
+                    ],
+                    "all_points_y": [
+                        99,
+                        100,
+                        103,
+                        106,
+                        103,
+                        98
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        144,
+                        141,
+                        142,
+                        148,
+                        144
+                    ],
+                    "all_points_y": [
+                        126,
+                        129,
+                        134,
+                        130,
+                        126
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        146,
+                        141,
+                        144,
+                        149,
+                        150,
+                        146
+                    ],
+                    "all_points_y": [
+                        131,
+                        135,
+                        139,
+                        137,
+                        135,
+                        130
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        131,
+                        135,
+                        143,
+                        141,
+                        138,
+                        135,
+                        131
+                    ],
+                    "all_points_y": [
+                        142,
+                        150,
+                        142,
+                        139,
+                        140,
+                        135,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        100,
+                        105,
+                        108,
+                        101,
+                        98,
+                        100
+                    ],
+                    "all_points_y": [
+                        134,
+                        134,
+                        138,
+                        142,
+                        137,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "53.jpg15841": {
+        "filename": "53.jpg",
+        "size": 15841,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        149,
+                        147,
+                        143,
+                        145,
+                        153,
+                        154,
+                        152,
+                        149
+                    ],
+                    "all_points_y": [
+                        97,
+                        101,
+                        105,
+                        107,
+                        107,
+                        105,
+                        101,
+                        97
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "54.jpg16884": {
+        "filename": "54.jpg",
+        "size": 16884,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        137,
+                        142,
+                        147,
+                        142,
+                        137
+                    ],
+                    "all_points_y": [
+                        125,
+                        122,
+                        129,
+                        132,
+                        125
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"55.jpg16830": {
+        "filename": "55.jpg",
+        "size": 16830,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        136,
+                        140,
+                        140,
+                        136,
+                        132,
+                        136
+                    ],
+                    "all_points_y": [
+                        79,
+                        79,
+                        84,
+                        87,
+                        81,
+                        79
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"56.jpg16446": {
+        "filename": "56.jpg",
+        "size": 16446,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        154,
+                        160,
+                        164,
+                        159,
+                        154,
+                        153,
+                        154
+                    ],
+                    "all_points_y": [
+                        79,
+                        78,
+                        88,
+                        91,
+                        87,
+                        84,
+                        78
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "57.jpg16288": {
+        "filename": "57.jpg",
+        "size": 16288,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        159,
+                        165,
+                        166,
+                        163,
+                        156,
+                        152,
+                        153,
+                        160
+                    ],
+                    "all_points_y": [
+                        82,
+                        87,
+                        91,
+                        94,
+                        91,
+                        88,
+                        85,
+                        82
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "58.jpg16425": {
+        "filename": "58.jpg",
+        "size": 16425,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        154,
+                        157,
+                        156,
+                        153,
+                        150,
+                        149,
+                        155
+                    ],
+                    "all_points_y": [
+                        170,
+                        174,
+                        176,
+                        178,
+                        176,
+                        172,
+                        170
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        159,
+                        158,
+                        163,
+                        164,
+                        161,
+                        157,
+                        154,
+                        156,
+                        159
+                    ],
+                    "all_points_y": [
+                        82,
+                        82,
+                        85,
+                        91,
+                        91,
+                        90,
+                        88,
+                        84,
+                        81
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"59.jpg16034": {
+        "filename": "59.jpg",
+        "size": 16034,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        134,
+                        139,
+                        143,
+                        143,
+                        140,
+                        134
+                    ],
+                    "all_points_y": [
+                        138,
+                        135,
+                        136,
+                        142,
+                        144,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        94,
+                        93,
+                        97,
+                        101,
+                        98,
+                        94
+                    ],
+                    "all_points_y": [
+                        89,
+                        97,
+                        101,
+                        96,
+                        90,
+                        90
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        147,
+                        145,
+                        153,
+                        154,
+                        157,
+                        156,
+                        153,
+                        146
+                    ],
+                    "all_points_y": [
+                        90,
+                        95,
+                        98,
+                        94,
+                        91,
+                        88,
+                        88,
+                        91
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"60.jpg15892": {
+        "filename": "60.jpg",
+        "size": 15892,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        136,
+                        139,
+                        144,
+                        145,
+                        144,
+                        139,
+                        136,
+                        135,
+                        136
+                    ],
+                    "all_points_y": [
+                        136,
+                        133,
+                        135,
+                        138,
+                        141,
+                        144,
+                        141,
+                        140,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        121,
+                        117,
+                        117,
+                        121,
+                        125,
+                        125,
+                        121
+                    ],
+                    "all_points_y": [
+                        103,
+                        104,
+                        109,
+                        111,
+                        111,
+                        105,
+                        103
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"61.jpg15831": {
+        "filename": "61.jpg",
+        "size": 15831,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        154,
+                        159,
+                        160,
+                        158,
+                        155,
+                        152,
+                        151,
+                        154
+                    ],
+                    "all_points_y": [
+                        94,
+                        95,
+                        99,
+                        101,
+                        102,
+                        101,
+                        98,
+                        94
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        137,
+                        134,
+                        137,
+                        142,
+                        140,
+                        137
+                    ],
+                    "all_points_y": [
+                        135,
+                        139,
+                        143,
+                        140,
+                        137,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        151,
+                        158,
+                        153,
+                        152,
+                        147,
+                        152
+                    ],
+                    "all_points_y": [
+                        138,
+                        143,
+                        144,
+                        149,
+                        141,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        131,
+                        127,
+                        127,
+                        131,
+                        133,
+                        131,
+                        131
+                    ],
+                    "all_points_y": [
+                        94,
+                        95,
+                        99,
+                        101,
+                        96,
+                        95,
+                        93
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "62.jpg16135": {
+        "filename": "62.jpg",
+        "size": 16135,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        142,
+                        147,
+                        150,
+                        152,
+                        150,
+                        146,
+                        143,
+                        142
+                    ],
+                    "all_points_y": [
+                        99,
+                        98,
+                        95,
+                        98,
+                        103,
+                        103,
+                        100,
+                        98
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        139,
+                        145,
+                        146,
+                        145,
+                        139,
+                        138,
+                        139
+                    ],
+                    "all_points_y": [
+                        101,
+                        99,
+                        99,
+                        104,
+                        106,
+                        104,
+                        101
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        147,
+                        152,
+                        155,
+                        153,
+                        147,
+                        147
+                    ],
+                    "all_points_y": [
+                        141,
+                        139,
+                        143,
+                        148,
+                        148,
+                        141
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        127,
+                        121,
+                        122,
+                        127,
+                        126
+                    ],
+                    "all_points_y": [
+                        145,
+                        149,
+                        153,
+                        154,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        132,
+                        136,
+                        134,
+                        130,
+                        130,
+                        132
+                    ],
+                    "all_points_y": [
+                        139,
+                        143,
+                        148,
+                        149,
+                        143,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        100,
+                        108,
+                        109,
+                        100,
+                        97,
+                        101
+                    ],
+                    "all_points_y": [
+                        137,
+                        137,
+                        146,
+                        148,
+                        143,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"63.jpg15526": {
+        "filename": "63.jpg",
+        "size": 15526,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        110,
+                        113,
+                        116,
+                        116,
+                        110,
+                        110
+                    ],
+                    "all_points_y": [
+                        105,
+                        103,
+                        105,
+                        110,
+                        110,
+                        105
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        158,
+                        157,
+                        162,
+                        163,
+                        165,
+                        165,
+                        158,
+                        158
+                    ],
+                    "all_points_y": [
+                        135,
+                        135,
+                        134,
+                        133,
+                        135,
+                        141,
+                        140,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        134,
+                        138,
+                        140,
+                        138,
+                        132,
+                        130,
+                        131,
+                        135
+                    ],
+                    "all_points_y": [
+                        141,
+                        139,
+                        143,
+                        149,
+                        150,
+                        146,
+                        141,
+                        140
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        101,
+                        106,
+                        106,
+                        97,
+                        97,
+                        101
+                    ],
+                    "all_points_y": [
+                        137,
+                        138,
+                        146,
+                        146,
+                        141,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },{
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        105,
+                        110,
+                        112,
+                        108,
+                        107,
+                        105
+                    ],
+                    "all_points_y": [
+                        90,
+                        89,
+                        94,
+                        98,
+                        93,
+                        89
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },"64.jpg15601": {
+        "filename": "64.jpg",
+        "size": 15601,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        95,
+                        99,
+                        100,
+                        104,
+                        102,
+                        95,
+                        96
+                    ],
+                    "all_points_y": [
+                        140,
+                        140,
+                        138,
+                        141,
+                        146,
+                        144,
+                        140
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        131,
+                        136,
+                        137,
+                        134,
+                        130,
+                        131
+                    ],
+                    "all_points_y": [
+                        144,
+                        144,
+                        150,
+                        152,
+                        148,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        134,
+                        137,
+                        138,
+                        136,
+                        131,
+                        134
+                    ],
+                    "all_points_y": [
+                        140,
+                        140,
+                        144,
+                        148,
+                        144,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        124,
+                        129,
+                        129,
+                        127,
+                        122,
+                        121,
+                        125
+                    ],
+                    "all_points_y": [
+                        140,
+                        141,
+                        147,
+                        150,
+                        149,
+                        145,
+                        140
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }, "65.jpg15633": {
+        "filename": "65.jpg",
+        "size": 15633,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polyline",
+                    "all_points_x": [
+                        120,
+                        125,
+                        130,
+                        128,
+                        122,
+                        120
+                    ],
+                    "all_points_y": [
+                        146,
+                        143,
+                        148,
+                        151,
+                        152,
+                        146
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    }
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+
+}
